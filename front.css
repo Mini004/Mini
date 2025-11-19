@@ -1,1 +1,30 @@
 
+
+.main-header {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+border: 5px solid rgb(81, 219, 127);
+   border-radius: 10px;
+   background-color:rgb(131, 224, 162)
+   transition: all 0.3s ease; 
+}
+
+html {
+    padding: 50px;
+  color: 48 48 48;
+  
+}
+
+
+    
+
+
+.CV {
+text-align: center;
+}       
+
+.phone {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    color: blue;
+}
