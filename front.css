@@ -1,9 +1,9 @@
 :root {
-    --text: #303030; /* what `color: 48 48 48` was meant to be */
+    --text: #303030;
     --muted: #5f6368;
-    --green: #51db7f; /* your header border colour */
-    --green-light: #83e0a2; /* your header background colour */
-    --green-dark: #1a7f45; /* darker shade that is readable as text */
+    --green: #51db7f; /* header border */
+    --green-light: #83e0a2; /* header background */
+    --green-dark: #1a7f45; /* links: dark enough to read on white */
     --page: #f4f6f5;
     --card: #fff;
 }
