@@ -1,7 +1,10 @@
 # Mini
-Main site upcoming
 
-# Current site link
-https://mini004.github.io/Mini/
-# intresting articles
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+My personal CV website, hosted with GitHub Pages.
+
+**Live site:** [mini004.github.io/Mini](https://mini004.github.io/Mini/)
+
+## Files
+
+- `index.html` – page content
+- `front.css` – styling
